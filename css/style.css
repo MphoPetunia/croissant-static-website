@@ -1,5 +1,5 @@
 body {
-  background-color: wheat;
+  background-color: rgb(242, 176, 199);
 }
 h1 {
   text-align: center;
@@ -12,4 +12,16 @@ p {
 footer {
   text-align: center;
   display: block;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer a {
+  margin: 0 10px;
+  color: blue;
 }
